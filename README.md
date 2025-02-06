@@ -1,2 +1,2 @@
-# Excel-Project
-These projects showcase my proficiency in various Excel functions and features, including VLOOKUP, XLOOKUP, IF, AND, OR formulas, as well as Charts, Pivot Tables, Conditional Formatting, and Data Validation.
+I am excited to share my latest Excel projects focused on employee data analysis. These projects showcase my proficiency in various Excel functions and features, including VLOOKUP, XLOOKUP, IF, AND, OR formulas, as well as Charts, Pivot Tables, Conditional Formatting, and Data Validation.
+I invite you to review my work on GitHub and provide feedback on areas where I can improve. Your insights will be greatly appreciated!
