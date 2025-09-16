@@ -1,2 +1,5 @@
-I am excited to share my latest Excel projects focused on employee data analysis. These projects showcase my proficiency in various Excel functions and features, including VLOOKUP, XLOOKUP, IF, AND, OR formulas, as well as Charts, Pivot Tables, Conditional Formatting, and Data Validation.
-I invite you to review my work on GitHub and provide feedback on areas where I can improve. Your insights will be greatly appreciated!
+This portfolio illustrates a journey from Excel fundamentals to advanced data analysis:
+
+Core Skills: The first project is a deep dive into essential Excel tools—mastering lookup functions (VLOOKUP/XLOOKUP), logical tests, and data integrity features like data validation and conditional formatting. This ensures clean, accurate, and calculable data.
+
+Advanced Application: The second project applies these skills to a real-world business scenario. The interactive performance dashboard leverages Pivot Tables and Slicers to create a dynamic tool for managers. It automatically visualizes key performance indicators (KPIs), identifies top performers and training opportunities, and drills down into specific error types, showcasing the power of Excel for driving data-informed decisions.
